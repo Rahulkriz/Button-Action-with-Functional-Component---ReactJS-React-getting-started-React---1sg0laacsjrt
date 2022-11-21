@@ -16,7 +16,7 @@ function App() {
       <button id="click" onClick={clicked}>
         Click me
       </button>
-      <p id="para">{para}</p>
+      <h1 id="para">{para}</h1>
     </div>
   );
 }
